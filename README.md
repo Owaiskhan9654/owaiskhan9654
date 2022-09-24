@@ -11,7 +11,7 @@
  
  - How to reach me **owaiskhan9654@gmail.com** 
  
- ![](https://komarev.com/ghpvc/?username=owaiskhan9654&color=ff69b4&label=Profile+views)
+ ![](https://komarev.com/ghpvc/?username=owaiskhan9654&color=18A558&label=Profile+views)
  
  </abc>
 </h2> 
