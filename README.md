@@ -1,7 +1,7 @@
 <h2 align="left">
  <abc>
   <br>
- - A skilled Data Scientist </h3>
+ - A Skilled Data Scientist </h3>
  
  - I’m currently working as a Data scientist at ThouCentric!
  
