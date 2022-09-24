@@ -3,7 +3,7 @@
   <br>
  - A skilled Data Scientist </h3>
  
- - I’m currently working as a Data scientist at Thoucentric!
+ - I’m currently working as a Data scientist at ThouCentric!
  
  - I’m looking to collaborate with other content creators
  
@@ -20,7 +20,7 @@
 
  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/owaiskhan9654?cardType=github&theme=tokyonight&Ring=1A19FF)](https://git.io/awesome-stats-card)
  
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=owaiskhna9654&show_icons=true&theme=dark&locale=en&layout=compact" alt="owaiskhan9654" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=owaiskhan9654&show_icons=true&theme=dark&locale=en&layout=compact" alt="owaiskhan9654" /></p>
 
 
 </p>
