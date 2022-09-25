@@ -18,7 +18,8 @@
 
 <img  alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="350" />
 
- [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/owaiskhan9654?cardType=github&theme=tokyonight&Ring=1A19FF)](https://git.io/awesome-stats-card)
+
+ [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/owaiskhan9654?cardType=github&theme=ocean-dark&showIcons=false)](https://owaiskhan9654.github.io/)
  
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=owaiskhan9654&show_icons=true&theme=dark&locale=en&layout=compact" alt="owaiskhan9654" /></p>
 
