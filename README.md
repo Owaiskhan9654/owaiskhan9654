@@ -16,7 +16,8 @@
  </abc>
 </h2> 
 
-<img src="[https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true](https://raw.githubusercontent.com/Owaiskhan9654/Owais-logo/master/code.gif?raw=True)" width="500" height="350"/>
+<img src="[https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true]" width="500" height="350"/>
+<img src="(https://raw.githubusercontent.com/Owaiskhan9654/Owais-logo/master/code.gif?raw=True)" width="500" height="350"/>
 
 
  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/owaiskhan9654?cardType=github&theme=ocean-dark&showIcons=false)](https://owaiskhan9654.github.io/)
