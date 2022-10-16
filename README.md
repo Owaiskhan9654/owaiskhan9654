@@ -1,7 +1,7 @@
 <h2 align="left">
  <abc>
   <br>
-A Skilled Data Scientist who has done masters from Jawaharlal Nehru University (JNU)⚡ ⚡ </h3>
+A Skilled Data Scientist who has done masters from Jawaharlal Nehru University (JNU)⚡⚡ </h3>
  
  - I’m currently working as a Data scientist at ThouCentric!
  
