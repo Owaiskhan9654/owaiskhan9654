@@ -61,30 +61,30 @@ A Skilled Data Scientist who has done masters from JNU⚡⚡ </h3>
  
  Languages and Tools:
  
-[![](https://img.shields.io/badge/Markdown-494d4c?style=for-the-badge&logo=markdown&logoColor=white)](#) &emsp;
-[![](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](#) &emsp;
-[![](https://img.shields.io/badge/Git-f02913?style=for-the-badge&logo=git&logoColor=white)](#) &emsp;
-[![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](#) &emsp;
-[![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#) &emsp;
-[![](https://img.shields.io/badge/NVIDIA-%20GEFORCE%20GTX%201660ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](#) &emsp;
-[![](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white)](#) &emsp;
-[![](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)](#) &emsp;
-[![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](#) &emsp;
-[![](https://img.shields.io/badge/PyTorch%20Lightning-792DE4?style=for-the-badge&logo=pytorch-lightning&logoColor=white)](#) &emsp;
-[![](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=Anaconda&logoColor=white)](#) &emsp;
-[![](https://img.shields.io/badge/Spyder-FF0000?style=for-the-badge&logo=Spyder&logoColor=white)](#) &emsp;
-[![](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white)](#) &emsp;
-[![](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)](#) &emsp;
-[![](https://img.shields.io/badge/Pandas-3e5e78?style=for-the-badge&logo=pandas&logoColor=white)](#) &emsp;
-[![](https://img.shields.io/badge/numpy-695170?style=for-the-badge&logo=numpy&logoColor=white)](#) &emsp;
-[![](https://img.shields.io/badge/OpenCV-a5eb60?style=for-the-badge&logo=opencv_python&logoColor=white)](#) &emsp;
-[![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#) &emsp;
-[![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#) &emsp;
-[![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](#) &emsp;
-[![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](#) &emsp;
-<img src="https://user-images.githubusercontent.com/47840160/196059938-8265ccfa-fce7-43b7-9d3f-83fe49810f13.png" height=30 width=55></img>
-<img src="https://raw.githubusercontent.com/huggingface/awesome-huggingface/main/logo.svg" height=30 width=55></img>
-<img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google-Colab&logoColor=white"></img>
+[![](https://img.shields.io/badge/Markdown-494d4c?style=for-the-badge&logo=markdown&logoColor=white)](https://www.linkedin.com/in/owaiskhan9654/) &emsp;
+[![](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://www.linkedin.com/in/owaiskhan9654/) &emsp;
+[![](https://img.shields.io/badge/Git-f02913?style=for-the-badge&logo=git&logoColor=white)](https://www.linkedin.com/in/owaiskhan9654/) &emsp;
+[![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linkedin.com/in/owaiskhan9654/) &emsp;
+[![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.linkedin.com/in/owaiskhan9654/) &emsp;
+[![](https://img.shields.io/badge/NVIDIA-%20GEFORCE%20GTX%201660ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://www.linkedin.com/in/owaiskhan9654/) &emsp;
+[![](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white)](https://www.linkedin.com/in/owaiskhan9654/) &emsp;
+[![](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)](https://www.linkedin.com/in/owaiskhan9654/) &emsp;
+[![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.linkedin.com/in/owaiskhan9654/) &emsp;
+[![](https://img.shields.io/badge/PyTorch%20Lightning-792DE4?style=for-the-badge&logo=pytorch-lightning&logoColor=white)](https://www.linkedin.com/in/owaiskhan9654/) &emsp;
+[![](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=Anaconda&logoColor=white)](https://www.linkedin.com/in/owaiskhan9654/) &emsp;
+[![](https://img.shields.io/badge/Spyder-FF0000?style=for-the-badge&logo=Spyder&logoColor=white)](https://www.linkedin.com/in/owaiskhan9654/) &emsp;
+[![](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white)](https://www.linkedin.com/in/owaiskhan9654/) &emsp;
+[![](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)](https://www.linkedin.com/in/owaiskhan9654/) &emsp;
+[![](https://img.shields.io/badge/Pandas-3e5e78?style=for-the-badge&logo=pandas&logoColor=white)](https://www.linkedin.com/in/owaiskhan9654/) &emsp;
+[![](https://img.shields.io/badge/numpy-695170?style=for-the-badge&logo=numpy&logoColor=white)](https://www.linkedin.com/in/owaiskhan9654/) &emsp;
+[![](https://img.shields.io/badge/OpenCV-a5eb60?style=for-the-badge&logo=opencv_python&logoColor=white)](https://www.linkedin.com/in/owaiskhan9654/) &emsp;
+[![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.linkedin.com/in/owaiskhan9654/) &emsp;
+[![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.linkedin.com/in/owaiskhan9654/) &emsp;
+[![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://www.linkedin.com/in/owaiskhan9654/) &emsp;
+[![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://www.linkedin.com/in/owaiskhan9654/) &emsp;
+<a href="https://www.linkedin.com/in/owaiskhan9654"/><img src="https://user-images.githubusercontent.com/47840160/196059938-8265ccfa-fce7-43b7-9d3f-83fe49810f13.png" height=30 width=55></img></a>
+<a href="https://www.linkedin.com/in/owaiskhan9654"/><img src="https://raw.githubusercontent.com/huggingface/awesome-huggingface/main/logo.svg" height=30 width=55></img></a>
+<a href="https://www.linkedin.com/in/owaiskhan9654"/><img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google-Colab&logoColor=white"></img></a>
 
 
 
