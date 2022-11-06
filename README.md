@@ -1,7 +1,7 @@
 <h2 align="left">
  <abc>
   <br>
-A Skilled Data Scientist who has done M.tech in Statistical Computing from JNU, Delhi⚡⚡ </h3>
+<h3> A Skilled Data Scientist who has done M.tech in Statistical Computing from JNU, Delhi⚡⚡ </h3>
  
  - I’m currently working as a Data scientist at ThouCentric!
  
