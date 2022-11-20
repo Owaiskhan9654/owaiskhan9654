@@ -51,10 +51,11 @@
 # Analytics ⚙️
 
 
- [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/owaiskhan9654?cardType=github&theme=ocean-dark&showIcons=false)](https://owaiskhan9654.github.io/)
+ 
+ [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/owaiskhan9654?cardType=github&theme=nightowl)](https://git.io/awesome-stats-card)
    
    
-- Disclamer - Above total stars are aggregated sum of big repositories I have contributed to ✌️✊.
+- Disclamer - Above total stars are aggregated sum of big repositories I have contributed to ✌️✊. Click on it to get more info about the source.
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=owaiskhan9654&show_icons=true&theme=dark&locale=en&layout=compact" alt="owaiskhan9654" /></p>
 
