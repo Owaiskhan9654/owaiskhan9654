@@ -3,7 +3,7 @@
   <br>
 <h3> Experienced Data Scientist with an M.Tech in Statistical Computing from JNU, currently employed in the same field⚡⚡ </h3>
  
- - I’m currently working as a Data scientist at ThouCentric!
+ - I’m currently working as an AI Engineer at IBM!
  
  - I’m looking to collaborate with other content creators
  
