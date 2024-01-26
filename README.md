@@ -1,45 +1,45 @@
+<div style="display: flex; flex-direction: column;">
+  <div style="flex: 1; margin-right: 10px;">
+    <ul style="list-style-type: none; padding: 0;">
+      <li>👨‍💻 Hi there! 👋 I'm <b>Owais</b>, a Data Scientist with an M.Tech in Statistical Computing from JNU⚡⚡.</li>
+      <li>Currently rocking as an AI Engineer at IBM! 🚀 Let's team up for some creative content collaborations.</li>
+      <li>💡 Fun fact: I'm all about diving deep into data, spotting trends, and crafting scalable data pipelines.</li>
+      <li>I love learning new stuff and sharing knowledge! 📈</li>
+      <li>📧 Reach out in a flash: <b>owaiskhan9654@gmail.com</b> 🚀</li>
+    </ul>
+  </div>
+</div>
+
+
+
+
 <h2 align="left">
- <abc>
-  <br>
-<h3> Experienced Data Scientist with an M.Tech in Statistical Computing from JNU, currently employed in the same field⚡⚡ </h3>
- 
- - I’m currently working as an AI Engineer at IBM!
- 
- - I’m looking to collaborate with other content creators
- 
- - Fun fact: I love to analyze data for trends and patterns and interpret data with a clear objective in mind and building scalable data pipelines. This is something that I enjoy a lot as well learning new content and sharing my knowledge with others. 
- 
- - How to reach me? Quickly email me at **owaiskhan9654@gmail.com** 
- 
- 
- 
- </abc>
 </h2> 
 
   <a href="mailto:owaiskhan9654@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mailto:owaiskhan9654@gmail.com" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mailto:owaiskhan9654@gmail.com"/>
   </a>
   
-  <a href="https://github.com/Owaiskhan9654">
+  <a href="https://github.com/Owaiskhan9654" style="color: inherit; text-decoration: none;">
     <img src="https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/Owaiskhan9654" alt="GitHub badge" />
   </a>
   
-  <a href="https://www.linkedin.com/in/owaiskhan9654/">
+  <a href="https://www.linkedin.com/in/owaiskhan9654/" style="color: inherit; text-decoration: none;">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/owaiskhan9654/" alt="LinkedIn" />
   </a>
   
-  <a href="https://www.hackerearth.com/@owaiskhan9654">
+  <a href="https://www.hackerearth.com/@owaiskhan9654" style="color: inherit; text-decoration: none;">
 <img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue/" alt="hacker Earth" /> 
   </a>
   
-  <a href="https://www.kaggle.com/owaiskhan9654">
+  <a href="https://www.kaggle.com/owaiskhan9654" style="color: inherit; text-decoration: none;">
  <img src="https://img.shields.io/badge/Kaggle%20Master-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" /> 
   </a>
-    <a href="https://owaiskhan9654.github.io/">
+    <a href="https://owaiskhan9654.github.io/" style="color: inherit; text-decoration: none;">
  <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Me+Website" /> 
   </a>
   
-  <a href="https://stackoverflow.com/users/13648763/owais">
+  <a href="https://stackoverflow.com/users/13648763/owais" style="color: inherit; text-decoration: none;">
  <img src="https://aleen42.github.io/badges/src/stackoverflow.svg" alt="Stack Overflow" /> 
   </a>
  
