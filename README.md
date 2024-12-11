@@ -2,11 +2,11 @@
 <div style="display: flex; flex-direction: column;">
   <div style="flex: 1; margin-right: 10px;">
     <ul style="list-style-type: none; padding: 0;">
-      <li>Hi 👋 I'm <b>Owais</b>, a Data Scientist with an M.Tech in Statistical Computing from JNU⚡⚡.</li>
-      <li>Currently rocking as an AI Engineer at IBM! 🚀 Let's team up for some creative content collaborations.</li>
-      <li>💡 Fun fact: I'm all about diving deep into data, spotting trends, and crafting scalable data pipelines.</li>
+      <li>Hi 👋 I'm <b>Owais</b>, a seasoned Data Science expert with an M.Tech in Statistical Computing from JNU⚡⚡.</li>
+      <li> Currently working and rocking as an AI Engineer at IBM! 🚀 Let's team up for some creative content collaborations.</li>
+      <li>💡 Fun fact: I'm all about diving deep into data, spotting trends, and crafting scalable data pipelines. I am a WatsonX fan</li>
       <li>I love learning new stuff and sharing knowledge! 📈</li>
-      <li>📧 Reach out in a flash: <b>owaiskhan9654@gmail.com</b> 🚀</li>
+      <li>📧 Reach out in a flash on my email: <b>owaiskhan9654@gmail.com</b> 🚀</li>
     </ul>
   </div>
 </div>
