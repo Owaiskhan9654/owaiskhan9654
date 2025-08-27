@@ -55,9 +55,7 @@
 
 
  
- [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/owaiskhan9654?cardType=github&theme=nightowl)](https://git.io/awesome-stats-card)
-   
-   
+ [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/owaiskhan9654?cardType=github&theme=nightowl)](https://git.io/awesome-stats-card) 
 
  </p> <h3 align="left">
  
@@ -90,4 +88,5 @@
 
 
 [<img width="968" height="462" alt="image" src="https://github.com/user-attachments/assets/c6e25e7c-85ff-4cab-bc29-fc0a83449ff2" />](https://www.linkedin.com/in/owaiskhan9654/)
+[<img width="968" height="691" alt="image" src="https://github.com/user-attachments/assets/b74c0f35-51b0-4af9-a1f9-50e0fd948a67" />](https://www.linkedin.com/in/owaiskhan9654/)
 
