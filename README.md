@@ -89,6 +89,5 @@
 <a href="https://www.linkedin.com/in/owaiskhan9654"/><img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google-Colab&logoColor=white"></img></a>
 
 
-[<img width="968" height="462" alt="image" src="https://github.com/user-attachments/assets/ff7f5162-0729-49e5-b294-3bc6050713c0" />](https://www.linkedin.com/in/owaiskhan9654/)
-
+[<img width="968" height="462" alt="image" src="https://github.com/user-attachments/assets/c6e25e7c-85ff-4cab-bc29-fc0a83449ff2" />](https://www.linkedin.com/in/owaiskhan9654/)
 
