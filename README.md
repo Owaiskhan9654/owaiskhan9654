@@ -90,3 +90,17 @@
 
 
 
+
+
+<div style="display: flex; overflow-x: auto; gap: 10px;">
+  <a href="[https://www.linkedin.com/posts/your-post-link1](https://www.linkedin.com/posts/owaiskhan9654_bangalore-azure-microsoft-activity-6959122293742612480-9Bjs?utm_source=share&utm_medium=member_desktop&rcm=ACoAACIlvvYBbjoVHnUEvvic0GdiHtbJijfktAY)" target="_blank">
+    <img src="[assets/microsoft.png](https://media.licdn.com/dms/image/v2/C5622AQFsMtbJXFa1Hg/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1659184045485?e=1759363200&v=beta&t=vRLmem3Mv1rrEfejC4k6wNclcQcELvg5zTTHt2FbRc8)" width="250">
+  </a>
+  <a href="https://www.linkedin.com/posts/your-post-link2" target="_blank">
+    <img src="assets/post2.png" width="250">
+  </a>
+  <a href="https://www.linkedin.com/posts/your-post-link3" target="_blank">
+    <img src="assets/post3.png" width="250">
+  </a>
+</div>
+
