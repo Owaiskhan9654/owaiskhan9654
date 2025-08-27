@@ -58,8 +58,6 @@
  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/owaiskhan9654?cardType=github&theme=nightowl)](https://git.io/awesome-stats-card)
    
    
-- Disclamer - Above total stars are aggregated sum of big repositories I have contributed to ✌️✊. Click on it to get more info about the source.
-
 
  </p> <h3 align="left">
  
