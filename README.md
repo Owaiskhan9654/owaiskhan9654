@@ -89,18 +89,6 @@
 <a href="https://www.linkedin.com/in/owaiskhan9654"/><img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google-Colab&logoColor=white"></img></a>
 
 
+[<img width="968" height="462" alt="image" src="https://github.com/user-attachments/assets/ff7f5162-0729-49e5-b294-3bc6050713c0" />](https://www.linkedin.com/in/owaiskhan9654/)
 
-
-
-<div style="display: flex; overflow-x: auto; gap: 10px;">
-  <a href="[https://www.linkedin.com/posts/your-post-link1](https://www.linkedin.com/posts/owaiskhan9654_bangalore-azure-microsoft-activity-6959122293742612480-9Bjs?utm_source=share&utm_medium=member_desktop&rcm=ACoAACIlvvYBbjoVHnUEvvic0GdiHtbJijfktAY)" target="_blank">
-    <img src="[assets/microsoft.png](https://media.licdn.com/dms/image/v2/C5622AQFsMtbJXFa1Hg/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1659184045485?e=1759363200&v=beta&t=vRLmem3Mv1rrEfejC4k6wNclcQcELvg5zTTHt2FbRc8)" width="250">
-  </a>
-  <a href="https://www.linkedin.com/posts/your-post-link2" target="_blank">
-    <img src="assets/post2.png" width="250">
-  </a>
-  <a href="https://www.linkedin.com/posts/your-post-link3" target="_blank">
-    <img src="assets/post3.png" width="250">
-  </a>
-</div>
 
